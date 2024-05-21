@@ -1,0 +1,4 @@
+npx create-react-app real-estate-app
+cd real-estate-app
+
+npm install axios react-router-dom
